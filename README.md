@@ -55,9 +55,9 @@ Drug Abuse/Addiction | 7378
 ### Male might commit more suicide compared to females in the future if this trend continues.
 ### People who commit suicide are mostly-
 #### Married
-     * Farmers and housewives
+   * Farmers and housewives
 #### Youngsters 15-29 age
-     * Main Reason For Youth suicides in INDIA in the YEAR 2001-2012 are Family Problems,Failure in Examination,Love Affairs,Unemployed,Farming/Agriculture Activity
+   * Main Reason For Youth suicides in INDIA in the YEAR 2001-2012 are Family Problems,Failure in Examination,Love Affairs,Unemployed,Farming/Agriculture Activity
 #### Adult age 30-44
-     * Main Reason For Adult suicides in INDIA in the YEAR 2001-2012 are Familybackground,Unemployed,workpressure,Extenal Affairs
+   * Main Reason For Adult suicides in INDIA in the YEAR 2001-2012 are Familybackground,Unemployed,workpressure,Extenal Affairs
 
