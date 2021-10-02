@@ -18,6 +18,7 @@
 #### From above pichart 50% of male & female suicide percentage from this equall number of suicides occured in between year 2001-2012
 
 ### Suicide Age Group
+![out4](https://user-images.githubusercontent.com/72851592/135705066-0835bb43-6fa9-4e79-8f0a-2fb3544c208d.png)
 
 #### From the above Bar graph we can say that 15-44 age group people had more suicides than other age groups,in this range we have youth & adult stage so here we guess that family problems,work pressure,affairs,unemployment..etc reasons for the suicides...
 
