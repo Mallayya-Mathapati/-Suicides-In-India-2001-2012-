@@ -27,7 +27,7 @@
 #### From the above Bar Graph we noticed that suicide ratio for male has two times the female suicides.from this men work for the well being of the family and they had workhard but at last suicide,is the main reason...
 
 ### Suicide by Education Status
-![suicide bye education](https://user-images.githubusercontent.com/72851592/135705151-197e5c96-46f6-4a3f-b38e-cadeef3d2cb9.png)
+![out7](https://user-images.githubusercontent.com/72851592/135705222-b3a4f828-c357-406e-aee5-d49688baf806.png)
 #### From the graph "suicides by education" we noticed that Primary education has more suicides due lack of knowldeg and they don't know how to dele with it & major thing in higher education 10th,+2 ,Degree exams fear..etc and after complting degree unempolyment major reasons.
 
 
