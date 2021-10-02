@@ -8,6 +8,9 @@
    -Maharashtra--901945
 * Lowest Suicides in
   -Lakshadweep--50
+  
+### total suicides occured in year 2001-2012
+
 
 
 
