@@ -32,7 +32,18 @@
 
 ### Social Issue Causing Suicides with respect to gender
 ![out8](https://user-images.githubusercontent.com/72851592/135705300-8e63a450-c920-443d-927b-670080c4d146.png)
-#### From the above Bar Graph we notice,that Married Male suicide due Family background ,workpressure,Extenal Affairs..etc For Married Female also applicable..
 
+### What are cause for suicides in Youth ?
+#### Main Reason For Youth suicides in INDIA in the YEAR 2001-2012
+** causes--Total suicides
+** Family Problems--121427
+** Failure in Examination--21328
+** Love Affairs --33023
+** Student--56219
+** Unemployed--46242
+** Unemployment--12414
+** Insanity/Mental Illness--27259
+** Farming/Agriculture Activity--52700
+** Drug Abuse/Addiction--7378
 
 
