@@ -47,12 +47,12 @@ Farming/Agriculture Activity | 52700
 Drug Abuse/Addiction | 7378
 
 # Inferences and Conclusion
-### * Highest number of suicide cases occured in Maharashtra, West Bengal,Tamil Nadu,Andhra Pradesh,Karnataka.
-### * lowest number of suicide cases occured in Lakshadweep,Daman & Diu,Nagaland,Manipur,D & N Haveli.
-### 2011 have highest suicides occured and 2001 have lowest suicides occured in the year 2001-2012 ,in india suicide rate positively incresing.
-### Married Male suicide due Family background ,workpressure,Extenal Affairs..etc For Married Female also applicable...
-### Males commit more suicides compared to Females in India
-### Male might commit more suicide compared to females in the future if this trend continues.
+* Highest number of suicide cases occured in Maharashtra, West Bengal,Tamil Nadu,Andhra Pradesh,Karnataka.
+* lowest number of suicide cases occured in Lakshadweep,Daman & Diu,Nagaland,Manipur,D & N Haveli.
+* 2011 have highest suicides occured and 2001 have lowest suicides occured in the year 2001-2012 ,in india suicide rate positively incresing.
+*  Married Male suicide due Family background ,workpressure,Extenal Affairs..etc For Married Female also applicable...
+*  Males commit more suicides compared to Females in India
+* Male might commit more suicide compared to females in the future if this trend continues.
 ### People who commit suicide are mostly-
 #### Married
    * Farmers and housewives
