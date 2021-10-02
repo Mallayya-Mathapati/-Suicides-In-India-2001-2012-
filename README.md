@@ -31,8 +31,8 @@
 #### From the graph "suicides by education" we noticed that Primary education has more suicides due lack of knowldeg and they don't know how to dele with it & major thing in higher education 10th,+2 ,Degree exams fear..etc and after complting degree unempolyment major reasons.
 
 ### Social Issue Causing Suicides with respect to gender
-
-####From the above Bar Graph we notice,that Married Male suicide due Family background ,workpressure,Extenal Affairs..etc For Married Female also applicable..
+![out8](https://user-images.githubusercontent.com/72851592/135705300-8e63a450-c920-443d-927b-670080c4d146.png)
+#### From the above Bar Graph we notice,that Married Male suicide due Family background ,workpressure,Extenal Affairs..etc For Married Female also applicable..
 
 
 
