@@ -22,6 +22,9 @@
 
 #### From the above Bar graph we can say that 15-44 age group people had more suicides than other age groups,in this range we have youth & adult stage so here we guess that family problems,work pressure,affairs,unemployment..etc reasons for the suicides...
 
+### suicides as per age group in males and females
+
+#### From the above Bar Graph we noticed that suicide ratio for male has two times the female suicides.from this men work for the well being of the family and they had workhard but at last suicide,is the main reason...
 
 
 
