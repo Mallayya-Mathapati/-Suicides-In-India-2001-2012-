@@ -1,0 +1,17 @@
+,Type,Gender,Total
+0,Diploma,Female,11202
+1,Diploma,Male,31257
+2,Graduate,Female,29052
+3,Graduate,Male,64770
+4,Hr. Secondary/Intermediate/Pre-Universit,Female,118218
+5,Hr. Secondary/Intermediate/Pre-Universit,Male,238506
+6,Matriculate/Secondary,Female,245820
+7,Matriculate/Secondary,Male,523878
+8,Middle,Female,353289
+9,Middle,Male,675624
+10,No Education,Female,398826
+11,No Education,Male,566445
+12,Post Graduate and Above,Female,6612
+13,Post Graduate and Above,Male,15813
+14,Primary,Female,409020
+15,Primary,Male,679461
